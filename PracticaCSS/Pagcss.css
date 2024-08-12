@@ -1,3 +1,49 @@
 *{
+    background-color: rgb(245, 245, 245);
     font-family: sans-serif;
+}
+h1 {
+    font-size: 24px; 
+    color: #242424;
+    font-weight: 900; 
+}
+h2 {
+    font-size: 20px; 
+    color: #606060;
+    font-weight: 800; 
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p a {
+    font-size: 14px;
+    color: #000000;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    width: 40%;
+    margin-left: 100px;
+    padding: 20px;
+    border: solid blue 2px;
+}
+li{ 
+    padding: 10px;
+    font-family: monospace;
+    font-size: 18px;
+    
+}
+li a {
+    font-weight: bold;
+    color: #ee5b06;
+    text-decoration: underline;
+}
+.verde
+{
+    color: green;
+}
+ul :hover
+{
+   background-color: RGBA(0,0,0,0.1); 
 }
