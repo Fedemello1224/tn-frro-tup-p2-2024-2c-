@@ -1,6 +1,9 @@
 *{
-    background-color: rgb(245, 245, 245);
     font-family: sans-serif;
+}
+html
+{
+    background-color: rgb(245, 245, 245);
 }
 h1 {
     font-size: 24px; 
