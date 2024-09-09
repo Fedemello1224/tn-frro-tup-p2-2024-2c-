@@ -1,0 +1,20 @@
+
+*{
+    background-color: rgb(56, 55, 53);
+}
+h1
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-family: Verdana;
+    font-size: 60px;
+    font-style: italic;
+}
+body
+{
+    
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding: 60px;
+}
