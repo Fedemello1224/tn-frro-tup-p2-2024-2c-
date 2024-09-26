@@ -96,6 +96,52 @@ for ( i= 0; i <= num3; i++)
 
 //Ejercicio 17
 
+/*let num1 = parseInt(prompt("Ingrese un valor", 0));
+if (num1 <= 1)
+{
+    console.log(num1 + " no es un numero primo");
+    document.write(num1 + " no es un numero primo");
+}
+else
+{
+    let esPrimo = true;
+
+for (let i = 2; i <= num1 / 2; i++ )
+{
+    if (num1 % i === 0)
+    {
+        esPrimo = false;
+        break;
+    }
+}
+if(esPrimo)
+{
+    console.log(num1 + " es un numero primo");
+    document.write(num1 + " es un numero primo");
+}
+else
+{
+    console.log(num1 + " no es un numero primo");
+    document.write(num1 + " no es un numero primo");
+}
+}
+*/
+//Ejercicio 18
+
+/*let num1 = parseInt(prompt("Ingrese un valor", 0));
+if(num1 <= 18)
+{
+    console.log("No puede sacar el carnet de conducir")
+    document.write("No puede sacar el carnet de conducir")
+}
+else
+{
+    console.write("Puede sacar el carnet de conducir")
+    document.write("Puede sacar el carnet de conducir")
+}
+/*
+
+//Ejercicio 19
 
 
 
