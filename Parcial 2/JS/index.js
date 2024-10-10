@@ -14,7 +14,7 @@ cuadrados.forEach((cuadrado,i) => {
     cuadrado.innerText = players === "Jugador 1"? x : o;
     cuadrado.style.backgroundColor = players === "Jugador 1" ? "yellow" : "blue";
     const resultado = condicionesDeJuego()
-    if (resultado === "empate")
+    if (resultado === "empate") //En caso de empate muestra el mensaje de empate
     {
       mostrarMensaje("Empate!!");
     }
